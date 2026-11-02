@@ -1,0 +1,14 @@
+F:\facu\Programacion\TP2-NicolasSanchez\bin\Debug\net8.0\TP2-NicolasSanchez.exe
+F:\facu\Programacion\TP2-NicolasSanchez\bin\Debug\net8.0\TP2-NicolasSanchez.deps.json
+F:\facu\Programacion\TP2-NicolasSanchez\bin\Debug\net8.0\TP2-NicolasSanchez.runtimeconfig.json
+F:\facu\Programacion\TP2-NicolasSanchez\bin\Debug\net8.0\TP2-NicolasSanchez.dll
+F:\facu\Programacion\TP2-NicolasSanchez\bin\Debug\net8.0\TP2-NicolasSanchez.pdb
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.GeneratedMSBuildEditorConfig.editorconfig
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.AssemblyInfoInputs.cache
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.AssemblyInfo.cs
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.csproj.CoreCompileInputs.cache
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.dll
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\refint\TP2-NicolasSanchez.dll
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.pdb
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\TP2-NicolasSanchez.genruntimeconfig.cache
+F:\facu\Programacion\TP2-NicolasSanchez\obj\Debug\net8.0\ref\TP2-NicolasSanchez.dll

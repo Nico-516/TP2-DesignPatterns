@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\bitacora\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\bitacora\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\observer\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\observer\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\factory\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\factory\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\strategy\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\strategy\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\strategy\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\strategy\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\strategy\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\strategy\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\strategy\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\strategy\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciof\\model\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciof\\model\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejercicioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejercicioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejerciciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejerciciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|f:\\facu\\programacion\\tp2-nicolassanchez\\ejercicioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C2564-C781-F2B0-6210-C0A2E67467AE}|TP2-NicolasSanchez.csproj|solutionrelative:ejercicioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoPlaya.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Observer\\EventoPlaya.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\EventoPlaya.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Observer\\EventoPlaya.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\EventoPlaya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:39:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Bitacora\\Bitacora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Bitacora\\Bitacora.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Bitacora\\Bitacora.cs",
+              "RelativeToolTip": "EjercicioF\\Bitacora\\Bitacora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:36:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarifaFactory.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Factory\\TarifaFactory.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Factory\\TarifaFactory.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Factory\\TarifaFactory.cs",
+              "RelativeToolTip": "EjercicioF\\Factory\\TarifaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:39:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarifaNocturna.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:36:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifaEstadia.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:22:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarifaHora.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaHora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaHora.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\TarifaHora.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:18:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITarifa.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\ITarifa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\ITarifa.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Strategy\\ITarifa.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\ITarifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:16:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Playa.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Model\\Playa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Model\\Playa.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioF\\Model\\Playa.cs",
+              "RelativeToolTip": "EjercicioF\\Model\\Playa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T19:50:52.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EjercicioE.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioE.cs",
+              "RelativeDocumentMoniker": "EjercicioE.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioE.cs",
+              "RelativeToolTip": "EjercicioE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:38:01.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EjercicioD.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioD.cs",
+              "RelativeDocumentMoniker": "EjercicioD.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioD.cs",
+              "RelativeToolTip": "EjercicioD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAADfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:37:46.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EjercicioC.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioC.cs",
+              "RelativeDocumentMoniker": "EjercicioC.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioC.cs",
+              "RelativeToolTip": "EjercicioC.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:37:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EjercicioB.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioB.cs",
+              "RelativeDocumentMoniker": "EjercicioB.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioB.cs",
+              "RelativeToolTip": "EjercicioB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:37:13.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EjercicioA.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioA.cs",
+              "RelativeDocumentMoniker": "EjercicioA.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\EjercicioA.cs",
+              "RelativeToolTip": "EjercicioA.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:36:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:24:49.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

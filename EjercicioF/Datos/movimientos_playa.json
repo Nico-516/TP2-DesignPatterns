@@ -1,0 +1,101 @@
+[
+  {
+    "Patente": "AB123CD",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "HORA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 9,
+    "FechaHora": "2026-11-01T21:01:27.2719211-03:00"
+  },
+  {
+    "Patente": "AC456EF",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "ESTADIA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 8,
+    "FechaHora": "2026-11-01T21:01:27.2869538-03:00"
+  },
+  {
+    "Patente": "AD789GH",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "NOCHE",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 7,
+    "FechaHora": "2026-11-01T21:01:27.3076395-03:00"
+  },
+  {
+    "Patente": "AE012IJ",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "HORA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 6,
+    "FechaHora": "2026-11-01T21:01:27.3151629-03:00"
+  },
+  {
+    "Patente": "AF345KL",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "ESTADIA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 5,
+    "FechaHora": "2026-11-01T21:01:27.325411-03:00"
+  },
+  {
+    "Patente": "AG678MN",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "NOCHE",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 4,
+    "FechaHora": "2026-11-01T21:01:27.3332643-03:00"
+  },
+  {
+    "Patente": "AH901OP",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "HORA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 3,
+    "FechaHora": "2026-11-01T21:01:27.3460168-03:00"
+  },
+  {
+    "Patente": "AI234QR",
+    "Tipo": "Ingreso",
+    "TarifaCodigo": "ESTADIA",
+    "Minutos": 0,
+    "Importe": 0,
+    "LugaresLibres": 2,
+    "FechaHora": "2026-11-01T21:01:27.3555684-03:00"
+  },
+  {
+    "Patente": "AB123CD",
+    "Tipo": "Egreso",
+    "TarifaCodigo": "HORA",
+    "Minutos": 150,
+    "Importe": 3600,
+    "LugaresLibres": 3,
+    "FechaHora": "2026-11-01T21:01:27.3795133-03:00"
+  },
+  {
+    "Patente": "AC456EF",
+    "Tipo": "Egreso",
+    "TarifaCodigo": "ESTADIA",
+    "Minutos": 900,
+    "Importe": 9600,
+    "LugaresLibres": 4,
+    "FechaHora": "2026-11-01T21:01:27.3807677-03:00"
+  },
+  {
+    "Patente": "AD789GH",
+    "Tipo": "Egreso",
+    "TarifaCodigo": "NOCHE",
+    "Minutos": 600,
+    "Importe": 4500,
+    "LugaresLibres": 5,
+    "FechaHora": "2026-11-01T21:01:27.3908212-03:00"
+  }
+]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-NicolasSanchez.csproj": {}
+    "F:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-DesignPatterns\\TP2-NicolasSanchez.csproj": {}
   },
   "projects": {
-    "f:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-NicolasSanchez.csproj": {
+    "F:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-DesignPatterns\\TP2-NicolasSanchez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-NicolasSanchez.csproj",
+        "projectUniqueName": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-DesignPatterns\\TP2-NicolasSanchez.csproj",
         "projectName": "TP2-NicolasSanchez",
-        "projectPath": "f:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-NicolasSanchez.csproj",
+        "projectPath": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-DesignPatterns\\TP2-NicolasSanchez.csproj",
         "packagesPath": "C:\\Users\\Nicol\\.nuget\\packages\\",
-        "outputPath": "f:\\facu\\Programacion\\TP2-NicolasSanchez\\obj\\",
+        "outputPath": "F:\\facu\\Programacion\\TP2-NicolasSanchez\\TP2-DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

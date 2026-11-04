@@ -8,7 +8,6 @@ using TP2_NicolasSanchez.EjercicioF.Strategy;
 
 namespace TP2_NicolasSanchez.EjercicioF.Model
 {
-    // rev-PC2
     public class Playa
     {
         private readonly int _capacidad;
